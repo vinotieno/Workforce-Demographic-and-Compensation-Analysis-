@@ -32,13 +32,13 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
 
 ### Exploratory Data Analysis
  - EDA involved exploring the workforce demographic data to answer the following questions:
-      1.What is the distribution of employees by gender and ethnicity?
-      2.Which department has the highest employee turnover rate?
-      3.How many employees were hired in each year?
-      4.How does the annual salary compare between different cities and countries?
-      5.What is the trend in salary growth over the years?
-      6.Are younger employees receiving lower salaries compared to older employees?
-      7.Which department has the highest and lowest salary distribution?
+   - What is the distribution of employees by gender and ethnicity?
+   - Which department has the highest employee turnover rate?
+   - How many employees were hired in each year?
+   - How does the annual salary compare between different cities and countries?
+   - What is the trend in salary growth over the years?
+   - Are younger employees receiving lower salaries compared to older employees?
+   - Which department has the highest and lowest salary distribution?
 
 ### Data Visualization
 
@@ -61,12 +61,12 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
 
 ### Results and Findinds
 - The analysis results are summarized as follows:  
-  1.The Overal Annual salary  for the three countries $ 113,217,365.00. 
-  2.The Total Number of Employees for the three countries is 1000
-  3.Asian employees form the largest group, accounting for 404 of the workforce . Black Employes represent the smallest group with a count of 74 
-  4.IT Department has the highest salary distribution, accounting for $ 23,567,499.00 and a total of 241 employees
-  5.The year 2021 had the highest number of employement rate, with a total of 86 employees.
-  6.Mid Career (Age group (40-49) ) has the highest number of employees with a total number of 288 employees. 
+  - The Overal Annual salary  for the three countries $ 113,217,365.00. 
+  - The Total Number of Employees for the three countries is 1000
+  - Asian employees form the largest group, accounting for 404 of the workforce . Black Employes represent the smallest group with a count of 74 
+  - IT Department has the highest salary distribution, accounting for $ 23,567,499.00 and a total of 241 employees
+  - The year 2021 had the highest number of employement rate, with a total of 86 employees.
+  - Mid Career (Age group (40-49) ) has the highest number of employees with a total number of 288 employees. 
 
 ### Recommedation
 - Based on the analysis, we recommed the following actions
