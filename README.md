@@ -20,7 +20,7 @@
 Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date. 
 
 ### Tools
-- Excel as used in Data Cleaning, Data Analysis, and Creating Reports.
+- Excel was used in Data Cleaning, Data Analysis, and Creating Reports.
 
 ### Data Cleaning and Preparatiion
 - During the data cleaning processes the following steps were considered:
