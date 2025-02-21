@@ -4,13 +4,13 @@
 - Project Overview
 - Data Sources
 - Tools
-- Data cleaning and prparation
+- Data cleaning and preparation
 - Exploratory Data Analysis
 - Data Visualization
 - Results/Findings
 - Recommendation
 - Technical Implementation
-- Rferenceces
+- Rferences
 
 ### Project Overview
 -This data analysis project focuses on understanding the demographic composition of employees (based on age, gender, ethnicity,Countrie etc.) and how it relates to compensation (salary). This project would be useful for HR teams to ensure fair pay, monitor diversity & inclusion efforts, and optimize compensation strategies.
