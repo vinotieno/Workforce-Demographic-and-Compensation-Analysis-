@@ -1,5 +1,5 @@
 # Workforce-Demographic-and-Compensation-Analysis-Project
-## This Excel project analyzes employee demographics, salaries, and turnover trends using key workforce data.
+## This Excel project analyzes employee demographics, salaries, and turnover trends using key workforce demographic data.
 ### Table of contents
 - Project Overview
 - Data Sources
