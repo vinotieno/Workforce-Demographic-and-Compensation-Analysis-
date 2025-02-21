@@ -59,7 +59,7 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
 
 
 
-### Results and Findinds
+### Results and Findings
 - The analysis results are summarized as follows:  
   - The Overal Annual salary  for the three countries $ 113,217,365.00. 
   - The Total Number of Employees for the three countries is 1000
@@ -68,7 +68,7 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
   - The year 2021 had the highest number of employement rate, with a total of 86 employees.
   - Mid Career (Age group (40-49) ) has the highest number of employees with a total number of 288 employees. 
 
-### Recommedation
+### Recommendation
 - Based on the analysis, we recommed the following actions
     - Develop policies to promote fair representation across all ethnic groups.
     - Organize cultural awareness programs to celebrate diversity.
