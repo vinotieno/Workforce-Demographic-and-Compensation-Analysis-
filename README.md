@@ -10,7 +10,7 @@
 - Results/Findings
 - Recommendation
 - Technical Implementation
-- Rferences
+- References
 
 ### Project Overview
 - This data analysis project focuses on understanding the demographic composition of employees (based on age, gender, ethnicity,Countrie etc.) and how it relates to compensation (salary). 
