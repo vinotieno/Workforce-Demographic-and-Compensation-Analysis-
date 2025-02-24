@@ -13,7 +13,8 @@
 - Rferences
 
 ### Project Overview
--This data analysis project focuses on understanding the demographic composition of employees (based on age, gender, ethnicity,Countrie etc.) and how it relates to compensation (salary). This project would be useful for HR teams to ensure fair pay, monitor diversity & inclusion efforts, and optimize compensation strategies.
+- This data analysis project focuses on understanding the demographic composition of employees (based on age, gender, ethnicity,Countrie etc.) and how it relates to compensation (salary). 
+- This project would be useful for HR teams to ensure fair pay, monitor diversity & inclusion efforts, and optimize compensation strategies.
 
 ### Data Source
 - The Primary dataset used for this analysis is the "Workforce_Demographic.xlsx" file containing information about each and every employee from three different countries ie United States of America, China and Brazil.The dataset contained these columns EEID, Full Name, Job Title, Department, Business Unit, Gender, Ethnicity, Age,
