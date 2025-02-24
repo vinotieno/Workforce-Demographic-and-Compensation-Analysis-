@@ -20,7 +20,8 @@
 Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date. 
 
 ### Tools
-- Excel was used in Data Cleaning, Data Analysis, and Creating Reports.
+- Excel was used in Data Cleaning, Data Analysis, and Creating Reports.[Download here][workforce demographic.xlsx](https://github.com/user-attachments/files/18940954/workforce.demographic.xlsx)
+
 
 ### Data Cleaning and Preparatiion
 - During the data cleaning processes the following steps were considered:
@@ -42,20 +43,20 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
 
 ### Data Visualization
 
-
-
-
-![Chart1](https://github.com/user-attachments/assets/4afc657c-4786-41f5-a941-0bb22a334157)
-
-
-
-
-![Chart2](https://github.com/user-attachments/assets/ab704c1d-f393-4975-89a8-44f371ce9dcf)
+![Chart1](https://github.com/user-attachments/assets/1f1aa87b-f1ad-47b9-a90b-742fd148cb7a)
 
 
 
 
-![Chart3](https://github.com/user-attachments/assets/ac20db99-e948-4f6a-bf8f-e175f0351b71)
+
+![Chart2](https://github.com/user-attachments/assets/787a2085-ae98-4e87-9988-c1b489f858a7)
+
+
+
+
+![Chart3](https://github.com/user-attachments/assets/f3276ebb-f90d-4643-afd6-058a8ab3f242)
+
+
 
 
 
@@ -69,7 +70,7 @@ Age Categorization, Hire Date, Annual Salary, Bonus %, Country, City, Exit Date.
   - Mid Career (Age group (40-49) ) has the highest number of employees with a total number of 288 employees. 
 
 ### Recommendation
-- Based on the analysis, we recommed the following actions
+- Based on the analysis, I would recommed the following actions:
     - Develop policies to promote fair representation across all ethnic groups.
     - Organize cultural awareness programs to celebrate diversity.
     - Track ethnicity trends in hiring, promotions, and exits.
